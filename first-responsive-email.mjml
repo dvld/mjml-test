@@ -128,7 +128,7 @@
           src="http://191n.mj.am/img/191n/3s/x0l.png"
           alt="placeholder-icon"
         />
-        
+
       </mj-column>
 
       <!-- center column -->
@@ -156,9 +156,51 @@
 
     <!-- social icons footer -->
     <mj-section
-      background-color="f0f0f0"
+      background-color="e7e7e7"
     >
-      
+      <mj-column>
+
+        <mj-social>
+
+          <mj-social-element
+            name="facebook"
+            href="#"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="twitter"
+            href="#"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="instagram"
+            href="#"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="youtube"
+            href="#"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="github"
+            href="#"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="linkedin"
+            href="#"
+          >
+          </mj-social-element>
+
+        </mj-social>
+
+      </mj-column>
     </mj-section>
 
   </mj-body>

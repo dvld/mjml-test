@@ -1,0 +1,35 @@
+<mjml>
+  <mj-body>
+
+    <!-- company header -->
+    <mj-section background-color='#f0f0f0'>
+      
+    </mj-section>
+
+    <!-- image header -->
+    <mj-section background-color='#f0f0f0'>
+      
+    </mj-section>
+
+    <!-- intro text -->
+    <mj-section background-color='#fafafa'>
+      
+    </mj-section>
+
+    <!-- 2 column section -->
+    <mj-section background-color='#ffffff'>
+      
+    </mj-section>
+
+    <!-- main icons -->
+    <mj-section background-color='#fbfbfb'>
+      
+    </mj-section>
+
+    <!-- social icons footer -->
+    <mj-section background-color='f0f0f0'>
+      
+    </mj-section>
+
+  </mj-body>
+</mjml>

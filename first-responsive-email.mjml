@@ -117,12 +117,47 @@
     </mj-section>
 
     <!-- icon section -->
-    <mj-section background-color="#fbfbfb">
-      
+    <mj-section
+      background-color="#fbfbfb"
+    >
+      <!-- left column -->
+      <mj-column>
+
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x0l.png"
+          alt="placeholder-icon"
+        />
+        
+      </mj-column>
+
+      <!-- center column -->
+      <mj-column>
+        
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x0l.png"
+          alt="placeholder-icon"
+        />
+
+      </mj-column>
+
+      <!-- right column -->
+      <mj-column>
+
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x0l.png"
+          alt="placeholder-icon"
+        />
+
+      </mj-column>
     </mj-section>
 
     <!-- social icons footer -->
-    <mj-section background-color="f0f0f0">
+    <mj-section
+      background-color="f0f0f0"
+    >
       
     </mj-section>
 

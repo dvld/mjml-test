@@ -3,14 +3,14 @@
 
     <!-- company header -->
     <mj-section
-      background-color='#f0f0f0'
+      background-color="#f0f0f0"
     >
       <mj-column>
 
         <mj-text
-          font-style='italic'
-          font-size='20px'
-          color='#626262'
+          font-style="italic"
+          font-size="20px"
+          color="#626262"
         >
           Company Name
         </mj-text>
@@ -20,26 +20,26 @@
 
     <!-- image header -->
     <mj-section
-      background-url='http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg'
-      background-size='cover'
-      background-repeat='no-repeat'
+      background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+      background-size="cover"
+      background-repeat="no-repeat"
     >
       <mj-column
         width="600px"
       >
 
         <mj-text
-          align='center'
-          color='#ffffff'
-          font-size='40px'
-          font-family='Helvetica Neue'
+          align="center"
+          color="#ffffff"
+          font-size="40px"
+          font-family="Helvetica Neue"
         >
           Company Slogan
         </mj-text>
 
         <mj-button
-          background-color='#f63a4d'
-          href='#'
+          background-color="#f63a4d"
+          href="#"
         >
           Promotions
         </mj-button>
@@ -49,30 +49,30 @@
 
     <!-- intro text -->
     <mj-section
-      background-color='#fafafa'
+      background-color="#fafafa"
     >
       <mj-column
         width="400px"
       >
 
         <mj-text
-          font-style='italic'
-          font-size='20px'
-          font-family='Helvetica Neue'
-          color='#626262'
+          font-style="italic"
+          font-size="20px"
+          font-family="Helvetica Neue"
+          color="#626262"
         >
           Awesome Product Text
         </mj-text>
 
         <mj-text
-          color='#525252'
+          color="#525252"
         >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sed elementum tempus egestas sed sed. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Odio morbi quis commodo odio aenean.
         </mj-text>
 
         <mj-button
-          background-color='#f45e43'
-          href='#'
+          background-color="#f45e43"
+          href="#"
         >
           Learn more
         </mj-button>
@@ -81,17 +81,48 @@
     </mj-section>
 
     <!-- 2 column section -->
-    <mj-section background-color='#ffffff'>
-      
+    <mj-section
+      background-color="#ffffff"
+    >
+      <!-- left column (image) -->
+      <mj-column>
+
+        <mj-image
+          width="200px"
+          src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg"
+          alt="placeholder-image"
+        />
+
+      </mj-column>
+
+      <!-- right column (text) -->
+      <mj-column>
+        
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          font-family="Helvetica Neue"
+          color="#626262"
+        >
+          Engaging Title Text
+        </mj-text>
+
+        <mj-text
+          color="#525252"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac tincidunt vitae semper quis. Velit egestas dui id ornare arcu odio ut. Varius vel pharetra vel turpis nunc eget lorem.
+        </mj-text>
+
+      </mj-column>
     </mj-section>
 
     <!-- icon section -->
-    <mj-section background-color='#fbfbfb'>
+    <mj-section background-color="#fbfbfb">
       
     </mj-section>
 
     <!-- social icons footer -->
-    <mj-section background-color='f0f0f0'>
+    <mj-section background-color="f0f0f0">
       
     </mj-section>
 

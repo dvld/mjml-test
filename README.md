@@ -4,4 +4,4 @@
 
 ---
 
-https://dvld.github.io/mjml-test/first-responsive-email.html
+https://dvld.github.io/mjml-test/
